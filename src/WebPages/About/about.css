@@ -1,0 +1,67 @@
+.about {
+  font-family: Arial, Helvetica, sans-serif;
+  color: goldenrod;
+  font-size: 22px;
+  position: center;
+  margin-top: 50px;
+  left: 25px;
+  opacity: 0.7;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: goldenrod;
+  font-size: 40px;
+  position: absolute;
+  margin-top: -50px;
+  margin-left: 120px;
+  left: 25px;
+  opacity: 0.7;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: goldenrod;
+  font-size: 40px;
+  position: absolute;
+  margin-top: -50px;
+  margin-left: 120px;
+  left: 25px;
+  opacity: 0.7;
+}
+.page-header {
+  font-family: Arial, Helvetica, sans-serif;
+  color: goldenrod;
+  font-size: 22px;
+  position: absolute;
+  margin-top: -50px;
+  left: 25px;
+  opacity: 0.7;
+}
+.center {
+  font-family: Arial, Helvetica, sans-serif;
+  color: goldenrod;
+  font-size: 22px;
+  position: absolute;
+  margin-top: -50px;
+  left: 25px;
+  opacity: 0.7;
+}
+.main-image {
+  position: relative;
+  flex-wrap: wrap;
+  display: block;
+  width: auto;
+  height: auto;
+}
+.cover-image {
+  width: auto;
+  flex: auto;
+}
+.my-bio {
+  font-family: Arial, Helvetica, sans-serif;
+  color: goldenrod;
+  font-size: 22px;
+  position: absolute;
+  margin-top: -50px;
+  left: 25px;
+  opacity: 0.7;
+}

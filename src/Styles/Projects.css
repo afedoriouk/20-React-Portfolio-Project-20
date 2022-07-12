@@ -1,0 +1,20 @@
+.projects {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.projects .projectTitle {
+  text-align: center;
+  color: midnightblue;
+  font-size: 45px;
+  font-weight: bold;
+}
+.projectList {
+  width: 350px;
+  height: 350px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
