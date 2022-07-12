@@ -8,9 +8,15 @@ function Navbar() {
 
   return (
     <div className="navbar">
-      <div className="toggleButton">
+      <img
+        src={require('../Assets/Images/A_F_logo.png')}
+        className="Logo"
+        style={{ width: '10%' }}
+        alt="Logo"
+      />
+      {/* <div className="toggleButton">
         <button></button>
-      </div>
+      </div> */}
       <div className="links">
         <Link to="/">Home</Link>
         <Link to="/Projects">Projects</Link>

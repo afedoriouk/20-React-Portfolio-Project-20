@@ -4,21 +4,21 @@ body {
   text-align: center;
   font-size: larger;
 }
-
+/* 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
-html {
+} */
+/* html {
   font-size: 50%;
-}
+} */
 
 body {
   margin: 0;
-  font-family: 280 'Helvetica Heue', 'sans-serif';
+  font-family: 240 'Helvetica Heue', 'sans-serif';
   font-weight: bolder;
   background: rgb(1, 148, 197);
-  overflow: hidden;
+
   display: block;
   padding: 30px;
 }

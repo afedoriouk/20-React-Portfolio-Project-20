@@ -1,23 +1,61 @@
 import React from 'react'
-import backgroundImage from '../../Assets/Images/Webdevelop-IMG-5.jpg'
-
+// import Project1 from '../../Assets/Images/Project1.png'
+// import Project2 from '../../Assets/Images/Project2.png'
+// import Project3 from '../../Assets/Images/Project3.png'
+// import Project4 from '../../Assets/Images/Project4.png'
+import './about.css'
 function About() {
   return (
     <section className="cover-image">
-      <h1 id="about">About</h1>
-      <img
-        src={backgroundImage}
-        className="cover-image"
-        style={{ width: '100%' }}
-        alt="cover-image"
-      />
+      <h1 id="about"></h1>
+      <div className="imageContainer">
+        <img
+          src={require('../../Assets/Images/Project1.png')}
+          className="cover-image"
+          // style={{ width: '30%' }}
+          alt="cover-image"
+        />
+        <img
+          src={require('../../Assets/Images/Project2.png')}
+          className="cover-image"
+          // style={{ width: '30%' }}
+          alt="cover-image"
+        />
+        <img
+          src={require('../../Assets/Images/Project3.png')}
+          className="cover-image"
+          // style={{ width: '30%' }}
+          alt="cover-image"
+        />
+
+        <img
+          src={require('../../Assets/Images/Project4.png')}
+          className="cover-image"
+          // style={{ width: '30%' }}
+          alt="cover-image"
+        />
+        <img
+          src={require('../../Assets/Images/Project5.png')}
+          className="cover-image"
+          // style={{ width: '30%' }}
+          alt="cover-image"
+        />
+        <img
+          src={require('../../Assets/Images/Project6.png')}
+          className="cover-image"
+          // style={{ width: '30%' }}
+          alt="cover-image"
+        />
+      </div>
       <div className="my-bio">
         <p>Alexander Fedoriouk</p>
         <div>
-          <h2>Graphic/Web Designer, Web Developer, Video/Audio Editor</h2>
           <p>
-            As a Graphic/Web Designer and Web Developer and Video/Audio Editor,
-            I create dynamic, attention-grabbing websites, brochures, ads that
+            <strong>
+              Graphic/Web Designer and Web Developer and Video/Audio Editor.
+            </strong>
+            As a Graphic/Web Designer and Web Developer and Video/Audio Editor I
+            create dynamic, attention-grabbing websites, brochures, ads that
             bring increased exposure and revenue to my clients. I have a proven
             track record coordinating and directing marketing campaigns,
             managing marketing databases, producing creative materials, creating

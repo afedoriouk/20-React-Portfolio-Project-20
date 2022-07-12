@@ -7,12 +7,16 @@ import React from 'react'
 import './Projects'
 // import Project1 from '../Assets/Images/Project1.png'
 // import Project2 from '../Assets/Images/Project2.png'
-
+import '../../Styles/Projects.css'
 function Projects() {
   return (
     <div className="Projects">
-      <h1>Alexander F. Projects</h1>
-      <div className="ProjectList">
+      <h1>Alexander's Projects</h1>
+      <div className="ProjectModule">
+        {/* {ProjectList.map((project, idx) => { */}
+        {/* return ( */}
+        {/* <ProjectList id={idx} title={project.title} image={project.image} />) */}
+        {/* })} */}
         {/* <ProjectModule name="Weather App" image={Project1} />
         <ProjectModule name="Company App" image={Project2} /> */}
       </div>
