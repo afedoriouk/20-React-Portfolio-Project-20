@@ -7,7 +7,7 @@ import { Routes, Route } from 'react-router-dom'
 import Home from './WebPages/Home'
 import About from './WebPages/About'
 import Contact from './WebPages/Contact/Contact'
-import Projects from './WebPages/Projects/Projects'
+import Portfolio from './WebPages/Portfolio/Portfolio'
 // import Portfolio from './components/Portfolio'
 import Navbar from './components/Navbar'
 // import Footer from './Footer'
@@ -24,7 +24,7 @@ function App() {
 
         <Route path="/about" element={<About />} />
 
-        <Route path="/projects" element={<Projects />} />
+        <Route path="/portfolio" element={<Portfolio />} />
 
         <Route path="/contact" element={<Contact />} />
       </Routes>
