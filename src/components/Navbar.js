@@ -19,7 +19,7 @@ function Navbar() {
       </div> */}
       <div className="links">
         <Link to="/">Home</Link>
-        <Link to="/Projects">Projects</Link>
+        <Link to="/Contact">Contact</Link>
         <Link to="/About">About</Link>
         <Link to="/Portfolio">Portfolio</Link>
       </div>
