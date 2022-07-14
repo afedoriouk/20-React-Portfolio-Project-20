@@ -1,6 +1,6 @@
 # React Portfolio App Project-20
 
-This project is very important project for the developers. It is a showcase of the portfolio skills and languages that the developer could offer t the potential clients.
+This project is very important project for the developers. It is a showcase of the portfolio skills and languages that the developer could offer to the potential clients.
 
 ## Technologies 
 * React.js<br/>
