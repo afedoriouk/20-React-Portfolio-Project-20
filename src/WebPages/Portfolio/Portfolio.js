@@ -2,10 +2,7 @@ import React from 'react'
 
 import './Portfolio'
 
-// import Project1 from '../../Assets/Images/Project1.png'
-// import Project2 from '../../Assets/Images/Project2.png'
-// import Project3 from '../../Assets/Images/Project3.png'
-// import Project4 from '../../Assets/Images/Project4.png'
+
 import './portfolio.css'
 function Portfolio() {
   return (

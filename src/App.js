@@ -2,7 +2,6 @@ import React from 'react'
 
 import { Routes, Route } from 'react-router-dom'
 // import Nav from './components/Nav'
-// import Sidebar from './components/Sidebar'
 
 import Home from './WebPages/Home'
 import About from './WebPages/About'

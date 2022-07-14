@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Link, useLocation } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import '../Styles/Navbar.css'
 //Navbar is displayed on all of the pages the same way
 function Navbar() {
@@ -29,24 +29,4 @@ function Navbar() {
 
 export default Navbar
 
-// describe('Nav component', () => {
-//   // baseline test
-//   it('renders', () => {
-//     render(<Nav />)
-//   })
 
-//   // snapshot test
-//   it('matches snapshot', () => {
-//     const { asFragment } = render(<Nav />)
-
-//     // assert value comparison
-//   })
-// })
-// describe('links are visible', () => {
-//   it('inserts text into the links', () => {
-//     // Arrange
-//     // Assert
-//   })
-// })
-
-// export Nav

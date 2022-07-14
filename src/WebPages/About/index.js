@@ -1,19 +1,16 @@
 import React from 'react'
-// import Project1 from '../../Assets/Images/Project1.png'
-// import Project2 from '../../Assets/Images/Project2.png'
-// import Project3 from '../../Assets/Images/Project3.png'
-// import Project4 from '../../Assets/Images/Project4.png'
+
 import './about.css'
 function About() {
   return (
     <section className="cover-image">
       <div className="my-bio">
-        <p>Alexander Fedoriouk</p>
+        <p><strong>Alexander Fedoriouk</strong></p>
         <div>
           <p>
-            <strong>
-              Graphic/Web Designer and Web Developer and Video/Audio Editor.
-            </strong>
+            
+            <strong>Graphic/Web Designer, Web Developer and Video/Audio Editor.</strong><br/><br/>
+           
             As a Graphic/Web Designer and Web Developer and Video/Audio Editor I
             create dynamic, attention-grabbing websites, brochures, ads that
             bring increased exposure and revenue to my clients. I have a proven

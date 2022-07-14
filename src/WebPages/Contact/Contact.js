@@ -13,10 +13,14 @@ function Contact() {
           description: <em>I develop websites with current technologies</em>
         </ul>
         <ul>resume: 'http://</ul>
-        <ul> social: linkedin: https:linkedin.com</ul>
+        <ul>
+          social: linkedin: <a href="https://www.linkedin.com/"> </a>
+        </ul>
 
         <ul>
-          github:"https://github.com/afedoriouk/20-React-Portfolio-Project-20"
+          <a href="https://github.com/afedoriouk/20-React-Portfolio-Project-20">
+            github
+          </a>
         </ul>
       </div>
     </section>
