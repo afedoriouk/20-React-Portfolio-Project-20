@@ -37,7 +37,7 @@ App is ready to be deployed.
 
 ### Deployment
 
-This section has moved here: [https://github.com/afedoriouk/20-React-Portfolio-Project-20](https://github.com/afedoriouk/20-React-Portfolio-Project-20)
+GitHub url: [https://github.com/afedoriouk/20-React-Portfolio-Project-20](https://github.com/afedoriouk/20-React-Portfolio-Project-20)
 
 ### `npm run build` 
 
