@@ -3,15 +3,19 @@
 This project is very important project for the developers. It is a showcase of the portfolio skills and languages that the developer could offer t the potential clients.
 
 ## Technologies 
-API with a React front end<br/>
-Tailwind CSS library<br/>
-HTML CSS<br/>
-JavaScript<br/>
+* React.js<br/>
+* Node.js<br/>
+* Express.js
+* Tailwind CSS Library<br/>
+* HTML<br/> 
+* CSS<br/>
+* JavaScript<br/>
 
 
+## Installation and Setup 
 ## Scripts and Commands to run in the Terminal
 
-Project directory-run:
+Installation:
 
 ### `npm start`
 
