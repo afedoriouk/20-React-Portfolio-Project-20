@@ -13,7 +13,7 @@
 }
 .h1 {
   color: white;
-  font-size: 60px;
+  font-size: 50px;
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
   font-weight: 900;
@@ -22,7 +22,7 @@
 
 .title-name {
   margin: 0;
-  font-weight: bolder;
+  font-weight: bold;
   position: center;
   float: center;
   font-weight: bolder;
