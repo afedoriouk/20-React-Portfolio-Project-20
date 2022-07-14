@@ -3,10 +3,10 @@
 This project is very important project for the developers. It is a showcase of the portfolio skills and languages that the developer could offer t the potential clients.
 
 ## Technologies 
-API with a React front end
-Tailwind CSS library
-HTML CSS
-JavaScript
+API with a React front end<br/>
+Tailwind CSS library<br/>
+HTML CSS<br/>
+JavaScript<br/>
 
 
 ## Scripts and Commands to run in the Terminal
