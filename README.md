@@ -2,7 +2,11 @@
 
 This project is very important project for the developers. It is a showcase of the portfolio skills and languages that the developer could offer t the potential clients.
 
-
+## Technologies 
+API with a React front end
+Tailwind CSS library
+HTML CSS
+JavaScript
 
 
 ## Scripts and Commands to run in the Terminal
