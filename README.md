@@ -43,10 +43,12 @@ GitHub url: [https://github.com/afedoriouk/20-React-Portfolio-Project-20](https:
 
 
 ### 20-React-Portfolio-Project-20 Screenshots
-![](../../../../fedoriouk-imac/OSUbootcamp/git-projects/20-React-Portfolio-Project-20/src/Assets/cover/Screen-Shot-p.1.png)
 
-![](../../../Screen-Shot-p.2.png)
+<img width="903" alt="Screen Shot p 1" src="https://user-images.githubusercontent.com/98120553/179792695-f1e72a90-f771-46a7-bbb5-17d6d793d31d.png">
 
-![](../../../Screen-Shot-p.3.png)
+<img width="890" alt="Screen Shot p 3" src="https://user-images.githubusercontent.com/98120553/179792715-db109316-b4ef-486c-baa4-a6a94d5aaab7.png">
 
-![](../../../Screen-Shot-p.4.png)
+<img width="876" alt="Screen Shot p 2" src="https://user-images.githubusercontent.com/98120553/179792749-777fd1c5-b22d-4fce-ae98-137158c20b5a.png">
+
+<img width="904" alt="Screen Shot p 4" src="https://user-images.githubusercontent.com/98120553/179792780-abf753ff-cf64-45e6-819b-e40c16cd27b3.png">
+
