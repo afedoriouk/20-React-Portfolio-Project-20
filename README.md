@@ -42,7 +42,7 @@ GitHub url: [https://github.com/afedoriouk/20-React-Portfolio-Project-20](https:
 
 
 
-# 20-React-Portfolio-Project-20
+### 20-React-Portfolio-Project-20 Screenshots
 ![](../../../../fedoriouk-imac/OSUbootcamp/git-projects/20-React-Portfolio-Project-20/src/Assets/cover/Screen-Shot-p.1.png)
 
 ![](../../../Screen-Shot-p.2.png)
