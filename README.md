@@ -50,5 +50,3 @@ GitHub url: [https://github.com/afedoriouk/20-React-Portfolio-Project-20](https:
 
 <img width="876" alt="Screen Shot p 2" src="https://user-images.githubusercontent.com/98120553/179792749-777fd1c5-b22d-4fce-ae98-137158c20b5a.png">
 
-<img width="904" alt="Screen Shot p 4" src="https://user-images.githubusercontent.com/98120553/179792780-abf753ff-cf64-45e6-819b-e40c16cd27b3.png">
-
