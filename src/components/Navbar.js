@@ -14,9 +14,7 @@ function Navbar() {
         style={{ width: '10%' }}
         alt="Logo"
       />
-      {/* <div className="toggleButton">
-        <button></button>
-      </div> */}
+    
       <div className="links">
         <Link to="/">Home</Link>
         <Link to="/Contact">Contact</Link>
